@@ -12,7 +12,7 @@
     <li><a href="#languages-and-libraries-used">Languages & Libraries</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#author">Author</a></li>
+    <li><a href="#authors">Authors</a></li>
 </ol>
 
 ## About the Project
@@ -53,8 +53,11 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Author
+## Authors
 
-Please feel free to reach out to me with any questions, recommendations, or other inquiries.
+Please feel free to reach out to us with any questions, recommendations, or other inquiries.
 
-Claire Cashmore - [GitHub](https://github.com/claire_cashmore17/) - clairecashmore2017@gmail.com
+- [Malick BA](https://github.com/malickbax)
+- [Claire CASHMORE](https://github.com/clairecashmore17)
+- [Maddie DOUTT](https://github.com/cultstatue)
+- [Franco MELENDEZ](https://github.com/Alenco98)
